@@ -2,13 +2,13 @@ about:
   description: "The snapd and snap tools enable systems to work with .snap files."
   license: GPL-3.0
   homepage: 
-  head: 931c5f6
+  head: 2d60771
   archived: false
   latestVersion: "2.77"
-  collectedAt: 2026-09-07T04:51:08Z
+  collectedAt: 2026-09-07T19:31:21Z
 timeline:
   created: 2015-10-21
-  lastCommit: 2026-09-04
+  lastCommit: 2026-09-07
   lastRelease: 2026-09-03
 popularity:
   star: 2047
@@ -16,13 +16,13 @@ popularity:
   fork: 689
   release: 181
   contributor: 308
-  pullRequest: 17515
+  pullRequest: 17522
   issue: 0
 language:
-  Go: 33810405
+  Go: 33859869
   C: 946948
-  Shell: 755552
-  Python: 649192
+  Shell: 755550
+  Python: 649174
   Makefile: 130827
   M4: 15936
   Awk: 4127
@@ -31,7 +31,7 @@ language:
   HTML: 980
   NSIS: 333
   Meson: 295
-totalBytes: 36317492
+totalBytes: 36366936
 recent:
   last30d:
     since: 2026-08-08
@@ -83,24 +83,24 @@ recent:
     commit: 0
 total:
   release: 181
-  mergedPR: 14919
-  openPR: 219
+  mergedPR: 14927
+  openPR: 218
   closedIssue: 0
   openIssue: 0
-  commit: 63578
+  commit: 63588
 ---
 path: /home/runner/.x-repo/github.com/snapcore/snapd
-collectedAt: 2026-09-07T04:51:52Z
+collectedAt: 2026-09-07T19:31:50Z
 loc:
   Go:
-    code: 784983
-    comments: 149199
-    blanks: 137639
-    files: 2767
+    code: 786015
+    comments: 149410
+    blanks: 137816
+    files: 2772
   Yaml:
-    code: 75830
-    comments: 10271
-    blanks: 15570
+    code: 75842
+    comments: 10272
+    blanks: 15573
     files: 1726
   C:
     code: 15092
@@ -108,14 +108,14 @@ loc:
     blanks: 2462
     files: 122
   Python:
-    code: 14424
+    code: 14423
     comments: 732
     blanks: 2595
     files: 122
   RPMSpecfile:
-    code: 14267
+    code: 14336
     comments: 248
-    blanks: 437
+    blanks: 438
     files: 2
   Json:
     code: 12920
@@ -214,8 +214,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 5710
-    blanks: 1485
+    comments: 5754
+    blanks: 1487
     files: 52
   Text:
     code: 0
@@ -223,10 +223,10 @@ loc:
     blanks: 106
     files: 50
 total:
-  code: 939702
-  comments: 184352
-  blanks: 164879
-  files: 6025
+  code: 940814
+  comments: 184608
+  blanks: 165062
+  files: 6030
 ---
 date: "2026-08-24"
 repo:
@@ -534,7 +534,7 @@ checks:
       - 'Info:   8 out of  14 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T04:51:54+00:00
+  collectedAt: 2026-09-07T19:31:52+00:00
   platform:
     darwin/arm64:
       name:  null
