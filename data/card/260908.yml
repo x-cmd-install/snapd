@@ -5,7 +5,7 @@ about:
   head: 2d60771
   archived: false
   latestVersion: "2.77"
-  collectedAt: 2026-09-08T02:11:39Z
+  collectedAt: 2026-09-08T04:38:15Z
 timeline:
   created: 2015-10-21
   lastCommit: 2026-09-07
@@ -90,7 +90,7 @@ total:
   commit: 63588
 ---
 path: /home/runner/.x-repo/github.com/snapcore/snapd
-collectedAt: 2026-09-08T02:12:08Z
+collectedAt: 2026-09-08T04:38:45Z
 loc:
   Go:
     code: 786015

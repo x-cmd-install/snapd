@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8993688,
       "digest": "sha256:3c5bd69cca9bc5d0d644b868cd290704823e2eab84b082a0c89b503a860d21fa",
-      "download_count": 311,
+      "download_count": 326,
       "created_at": "2026-09-03T13:37:11Z",
       "updated_at": "2026-09-03T13:37:15Z",
       "browser_download_url": "https://github.com/canonical/snapd/releases/download/2.77/snapd_2.77.no-vendor.tar.xz"
