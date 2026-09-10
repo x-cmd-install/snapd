@@ -7,7 +7,7 @@ about:
   latestVersion: "2.77.1"
   latestRelease: "2.77.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:08:00Z
+  collectedAt: 2026-09-10T22:41:14Z
 timeline:
   created: 2015-10-21
   lastCommit: 2026-09-10
@@ -94,7 +94,7 @@ total:
   commit: 63607
 ---
 path: /home/runner/.x-repo/github.com/snapcore/snapd
-collectedAt: 2026-09-10T21:08:32Z
+collectedAt: 2026-09-10T22:41:54Z
 loc:
   Go:
     code: 785841
