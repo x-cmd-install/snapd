@@ -20,9 +20,16 @@ x install snapd
 ## Release
 
 - **Latest**: `2.77.1` (2026-09-08)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-10
 - **Assets in release**: 3
-- **Published**: 2026-09-08T10:58:21Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [snapd_2.77.1.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz) | 8.1 MiB | `other` |
+| [snapd_2.77.1.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.only-vendor.tar.xz) | 2.1 MiB | `other` |
+| [snapd_2.77.1.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz) | 9.8 MiB | `other` |
 
 ## Popularity
 
@@ -30,7 +37,7 @@ x install snapd
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 14938 · **Open PRs**: 217 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63598
+- **Releases**: 182 · **Merged PRs**: 14943 · **Open PRs**: 217 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63606
 
 ## Recent activity
 
@@ -42,11 +49,11 @@ x install snapd
 
 ## Code size
 
-Total: **940,529** lines of code across **4740** files in the top 5 languages.
+Total: **940,670** lines of code across **4740** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 785,700 | 149,310 | 137,752 | 2767 |
+| Go | 785,841 | 149,331 | 137,778 | 2767 |
 | Yaml | 75,919 | 10,276 | 15,598 | 1727 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,423 | 732 | 2,595 | 122 |
@@ -67,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `snapd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/snapd.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/snapd.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:49:51Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:47Z._

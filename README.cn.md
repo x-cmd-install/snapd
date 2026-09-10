@@ -4,7 +4,7 @@
 
 The snapd and snap tools enable systems to work with .snap files.
 
-![snapd](https://repo.x-cmd.io/snapd.svg)
+![snapd](https://repo.x-cmd.io/snapd.svg?lang=zh)
 
 ## 安装
 
@@ -20,9 +20,16 @@ x install snapd
 ## 发布
 
 - **最新版本**: `2.77.1` (2026-09-08)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-09-08T10:58:21Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [snapd_2.77.1.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz) | 8.1 MiB | `other` |
+| [snapd_2.77.1.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.only-vendor.tar.xz) | 2.1 MiB | `other` |
+| [snapd_2.77.1.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz) | 9.8 MiB | `other` |
 
 ## 流行度
 
@@ -30,7 +37,7 @@ x install snapd
 
 ## 累计统计
 
-- **发布数**: 182 · **已合并 PR**: 14938 · **开放 PR**: 217 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63598
+- **发布数**: 182 · **已合并 PR**: 14943 · **开放 PR**: 217 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63606
 
 ## 最近活动
 
@@ -42,11 +49,11 @@ x install snapd
 
 ## 代码规模
 
-合计: **940,529** 行代码（覆盖前 5 种语言、共 **4740** 个文件）。
+合计: **940,670** 行代码（覆盖前 5 种语言、共 **4740** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 785,700 | 149,310 | 137,752 | 2767 |
+| Go | 785,841 | 149,331 | 137,778 | 2767 |
 | Yaml | 75,919 | 10,276 | 15,598 | 1727 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,423 | 732 | 2,595 | 122 |
@@ -71,4 +78,4 @@ snapd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:49:52Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:49Z._
