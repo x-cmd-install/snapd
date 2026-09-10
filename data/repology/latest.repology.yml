@@ -1,0 +1,1445 @@
+- repo: alt_p11
+  srcname: snapd
+  binnames:
+    - snap-confine
+    - snap-confine-debuginfo
+    - snapd
+    - snapd-debuginfo
+  visiblename: snapd
+  version: 2.66.1
+  origversion: 2.66.1-alt1
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - shaba@altlinux.org
+  licenses:
+    - GPLv3
+  categories:
+    - System/Configuration/Other
+- repo: altsisyphus
+  srcname: snapd
+  binnames:
+    - snap-confine
+    - snap-confine-debuginfo
+    - snapd
+    - snapd-debuginfo
+  visiblename: snapd
+  version: 2.66.1
+  origversion: 2.66.1-alt1
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - shaba@altlinux.org
+  licenses:
+    - GPLv3
+  categories:
+    - System/Configuration/Other
+- repo: aosc
+  srcname: app-admin/snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.74.1
+  origversion: 2.74.1-4
+  status: outdated
+  summary: Utilities to manage snap packages
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - admin
+- repo: aur
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.77.1
+  origversion: 2.77.1-1
+  status: newest
+  summary: Service and tools for management of snap packages.
+  maintainers:
+    - bboozzoo@aur
+    - zyga@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: snapd-git
+  binname: snapd-git
+  visiblename: snapd-git
+  version: 2.45.r489.gf8a32f8e27
+  origversion: 2.45.r489.gf8a32f8e27-1
+  status: rolling
+  summary: Service and tools for management of snap packages.
+  maintainers:
+    - lauradestrigter@aur
+  licenses:
+    - GPL3
+- repo: debian_13
+  subrepo: trixie/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+deb13u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - misc
+- repo: debian_13
+  subrepo: trixie-security/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+deb13u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - misc
+- repo: debian_14
+  subrepo: forky/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3-2
+  status: outdated
+  maintainers:
+    - me@zygoon.pl
+    - mvo@debian.org
+    - mwhudson@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3-2
+  status: outdated
+  maintainers:
+    - me@zygoon.pl
+    - mvo@debian.org
+    - mwhudson@debian.org
+  categories:
+    - misc
+- repo: deepin_23
+  subrepo: community
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.65.1
+  origversion: 2.65.1-1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+    - vorlon@debian.org
+  categories:
+    - devel
+- repo: deepin_25
+  subrepo: community
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.65.1
+  origversion: 2.65.1-1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+    - vorlon@debian.org
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3-2
+  status: outdated
+  maintainers:
+    - me@zygoon.pl
+    - mvo@debian.org
+    - mwhudson@debian.org
+  categories:
+    - misc
+- repo: epel_8
+  srcname: snapd
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-0.el8
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: solus
+  srcname: snapd
+  binname: snapd-dbginfo
+  visiblename: snapd-dbginfo
+  version: 2.77.1
+  origversion: null
+  status: newest
+  summary: Debug symbols for snapd
+  maintainers:
+    - silke@slxh.eu
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - debug
+- repo: epel_9
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-0.el9
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: epel_10
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-0.el10_3
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_39
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: 2.65.1
+  origversion: 2.65.1-0.fc39
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: "2.67"
+  origversion: 2.67-0.fc40
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: 2.65.1
+  origversion: 2.65.1-0.fc41
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.72"
+  origversion: 2.72-1.fc41
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.67"
+  origversion: 2.67-0.fc42
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: 2.75.2
+  origversion: 2.75.2-0.fc42
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.71"
+  origversion: 2.71-0.fc43
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: openmamba
+  subrepo: base
+  srcname: snapd
+  binnames:
+    - snapd
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-1mamba
+  status: outdated
+  summary: Background service that manages and maintains installed snaps
+  maintainers:
+    - silvan@openmamba.org
+  licenses:
+    - GPL
+  categories:
+    - System/Management
+- repo: fedora_43
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-0.fc43
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.72"
+  origversion: 2.72-4.fc44
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-0.fc44
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: fedora_rawhide
+  subrepo: development
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+  visiblename: snapd
+  version: "2.76"
+  origversion: 2.76-1.fc45
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: homebrew
+  srcname: snap
+  visiblename: snap
+  version: 2.77.1
+  origversion: null
+  status: newest
+  summary: Tool to work with .snap files
+- repo: kali_rolling
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3-2
+  status: outdated
+  maintainers:
+    - me@zygoon.pl
+    - mvo@debian.org
+    - mwhudson@debian.org
+  categories:
+    - misc
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.76.2
+  origversion: 2.76.2-2
+  status: outdated
+  summary: Service and tools for management of snap packages.
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.76.2
+  origversion: 2.76.2-2
+  status: outdated
+  summary: Service and tools for management of snap packages.
+  licenses:
+    - GPL-3.0-or-later
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.77.1
+  origversion: 2.77.1-1
+  status: newest
+  summary: Service and tools for management of snap packages.
+  licenses:
+    - GPL-3.0-or-later
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+  visiblename: snapd
+  version: "2.73"
+  origversion: 2.73-0
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - itchka@compuserve.com
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+  visiblename: snapd
+  version: "2.73"
+  origversion: 2.73-0
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - itchka@compuserve.com
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+deb13u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+deb13u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - misc
+- repo: pld
+  srcname: snapd
+  visiblename: snapd
+  version: 2.56.2
+  origversion: 2.56.2-1
+  status: outdated
+  vulnerable: true
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snap-confine
+    - snapd
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+deb13u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - devel
+- repo: raspbian_stable
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.68.3
+  origversion: 2.68.3-3+rpi1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - devel
+- repo: raspbian_testing
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: "2.71"
+  origversion: 2.71-3+rpi1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+  categories:
+    - devel
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: "2.74"
+  origversion: 2.74-1
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - m.novosyolov@rosalinux.ru
+  licenses:
+    - GPLv3
+  categories:
+    - System/Base
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: "2.74"
+  origversion: 2.74-1
+  status: outdated
+  summary: A transactional software package manager
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - GPLv3
+  categories:
+    - System/Base
+- repo: solus
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.77.1
+  origversion: null
+  status: newest
+  summary: The snapd and snap tools enable systems to work with .snap files
+  maintainers:
+    - silke@slxh.eu
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - desktop
+- repo: ubuntu_20_04
+  subrepo: focal-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.67.1+20.04
+  origversion: null
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_22_04
+  subrepo: jammy-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3+ubuntu22.04
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_24_04
+  subrepo: noble-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3+ubuntu24.04
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_25_04
+  subrepo: plucky-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: "2.73"
+  origversion: 2.73+ubuntu25.04
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_25_04
+  subrepo: plucky/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.67.1+25.04
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_25_10
+  subrepo: questing-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.75.2
+  origversion: 2.75.2+ubuntu25.10
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_25_10
+  subrepo: questing/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.71.1
+  origversion: 2.71.1+ubuntu25.10.1
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_26_04
+  subrepo: resolute/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.74.1
+  origversion: 2.74.1+ubuntu26.04.4
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_26_04
+  subrepo: resolute-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3+ubuntu26.04
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_26_10
+  subrepo: stonking/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.76.3
+  origversion: 2.76.3+ubuntu26.10
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: ubuntu_26_10_proposed
+  subrepo: stonking-proposed/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+  visiblename: snapd
+  version: 2.77.1
+  origversion: 2.77.1+ubuntu26.10.1
+  status: newest
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+- repo: wikidata
+  srcname: Q105423811
+  visiblename: snapd
+  version: 2.77.1
+  origversion: null
+  status: newest
+  summary: daemon and tools for management of snap packages
+  licenses:
+    - GNU General Public License, version 3.0
+- repo: debian_11
+  subrepo: bullseye-security/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_11
+  subrepo: bullseye/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_12
+  subrepo: bookworm/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.57.6
+  origversion: 2.57.6-1+deb12u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: debian_12
+  subrepo: bookworm-security/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.57.6
+  origversion: 2.57.6-1+deb12u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.37.4
+  origversion: 2.37.4-1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  vulnerable: true
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: epel_7
+  srcname: snapd
+  visiblename: snapd
+  version: "2.63"
+  origversion: 2.63-0.el7
+  status: outdated
+  summary: A transactional software package manager
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_39
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: 2.58.3
+  origversion: 2.58.3-2.fc39
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_40
+  subrepo: release
+  srcname: snapd
+  binnames:
+    - snapd
+    - snap-confine
+    - snapd-selinux
+    - snapd-devel
+    - snapd-debuginfo
+    - snapd-debugsource
+  visiblename: snapd
+  version: 2.61.2
+  origversion: 2.61.2-0.fc40
+  status: legacy
+  summary: A transactional software package manager
+  licenses:
+    - GPLv3
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: gentoo
+  srcname: app-containers/snapd
+  visiblename: app-containers/snapd
+  version: "2.63"
+  origversion: null
+  status: outdated
+  summary: Service and tools for management of snap packages
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - LGPL-3-with-linking-exception
+    - MIT
+  categories:
+    - app-containers
+  vulnerable: true
+- repo: gobolinux
+  srcname: Snapd
+  visiblename: Snapd
+  version: 2.23.5
+  origversion: null
+  status: outdated
+  summary: The snapd and snap tools to enable systems to work with .snap files
+  licenses:
+    - GNU General Public License version 3
+  vulnerable: true
+- repo: liguros_stable
+  srcname: app-containers/snapd
+  visiblename: app-containers/snapd
+  version: "2.63"
+  origversion: null
+  status: outdated
+  summary: Service and tools for management of snap packages
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - LGPL-3-with-linking-exception
+    - MIT
+  categories:
+    - app-containers
+  vulnerable: true
+- repo: liguros_develop
+  srcname: app-containers/snapd
+  visiblename: app-containers/snapd
+  version: "2.63"
+  origversion: null
+  status: outdated
+  summary: Service and tools for management of snap packages
+  maintainers:
+    - zmedico@gentoo.org
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD
+    - BSD-2
+    - LGPL-3-with-linking-exception
+    - MIT
+  categories:
+    - app-containers
+  vulnerable: true
+- repo: pardus_21
+  subrepo: updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: pardus_21
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - misc
+  vulnerable: true
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - golang-github-ubuntu-core-snappy-dev
+    - snap-confine
+    - snapd
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.37.4
+  origversion: 2.37.4-1+deb10u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - devel
+  vulnerable: true
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - golang-github-ubuntu-core-snappy-dev
+    - snap-confine
+    - snapd
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: "2.49"
+  origversion: 2.49-1+deb11u2
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - vorlon@debian.org
+  categories:
+    - devel
+  vulnerable: true
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: snapd
+  binnames:
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - snap-confine
+    - ubuntu-core-launcher
+  visiblename: snapd
+  version: 2.57.6
+  origversion: 2.57.6-1+rpi1+deb12u1
+  status: outdated
+  maintainers:
+    - mwhudson@debian.org
+    - lfaraone@debian.org
+    - me@zygoon.pl
+    - mvo@debian.org
+    - vorlon@debian.org
+  categories:
+    - devel
+  vulnerable: true
+- repo: rebornos
+  srcname: snapd
+  binname: snapd
+  visiblename: snapd
+  version: 2.59.5
+  origversion: 2.59.5-1
+  status: outdated
+  summary: Service and tools for management of snap packages.
+  licenses:
+    - GPL3
+  vulnerable: true
+- repo: ubuntu_14_04
+  subrepo: trusty-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.38~14.04
+  origversion: null
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.48.3
+  origversion: null
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - snapd
+    - ubuntu-core-snapd-units
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+  visiblename: snapd
+  version: 2.0.2
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.58+18.04.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.32.5+18.04
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.44.3+20.04
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_22_04
+  subrepo: jammy/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.55.3+22.04
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
+- repo: ubuntu_24_04
+  subrepo: noble/main
+  srcname: snapd
+  binnames:
+    - golang-github-ubuntu-core-snappy-dev
+    - golang-github-snapcore-snapd-dev
+    - snapd
+    - ubuntu-snappy
+    - ubuntu-snappy-cli
+    - ubuntu-core-snapd-units
+    - snap-confine
+    - ubuntu-core-launcher
+    - snapd-xdg-open
+  visiblename: snapd
+  version: 2.62+24.04build1
+  origversion: null
+  status: legacy
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - devel
+  vulnerable: true
