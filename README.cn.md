@@ -12,49 +12,14 @@ The snapd and snap tools enable systems to work with .snap files.
 x install snapd
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/snapcore/snapd>
-- **许可证**: GPL-3.0
-
-## 发布
-
-- **最新版本**: `2.77.1` (2026-09-08)
-- **最近提交**: 2026-09-10
-- **Release 含资产**: 3 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [snapd_2.77.1.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz) | 8.1 MiB | `other` |
-| [snapd_2.77.1.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.only-vendor.tar.xz) | 2.1 MiB | `other` |
-| [snapd_2.77.1.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz) | 9.8 MiB | `other` |
-
-## 流行度
-
-- **Star**: 2,049 · **Fork**: 689 · **开放 issue**: 0 · **贡献者**: 308
-
-## 累计统计
-
-- **发布数**: 182 · **已合并 PR**: 14943 · **开放 PR**: 217 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63606
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 12 | 0 | 0 | 0 | 0 | 0 |
-
 ## 代码规模
 
-合计: **940,670** 行代码（覆盖前 5 种语言、共 **4740** 个文件）。
+合计: **940,669** 行代码（覆盖前 5 种语言、共 **4740** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 785,841 | 149,331 | 137,778 | 2767 |
-| Yaml | 75,919 | 10,276 | 15,598 | 1727 |
+| Yaml | 75,918 | 10,275 | 15,598 | 1727 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,423 | 732 | 2,595 | 122 |
 | RPMSpecfile | 14,336 | 248 | 438 | 2 |
@@ -69,6 +34,58 @@ x install snapd
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
+## 源代码
+
+- **上游仓库**: <https://github.com/snapcore/snapd>
+- **许可证**: GPL-3.0
+
+## 发布
+
+- **最新版本**: `2.77.1` (2026-09-08)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 3 个
+
+## 流行度
+
+- **Star**: 2,049 · **Fork**: 689 · **开放 issue**: 0 · **贡献者**: 308
+
+## 累计统计
+
+- **发布数**: 182 · **已合并 PR**: 14944 · **开放 PR**: 217 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63607
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 23 | 0 | 0 | 0 | 0 | 0 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [snapd_2.77.1.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz) | 8.1 MiB | `other` |
+| [snapd_2.77.1.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.only-vendor.tar.xz) | 2.1 MiB | `other` |
+| [snapd_2.77.1.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz) | 9.8 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/snapd) 上共有 **83** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**61** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `2.76.3` | ⚠️ outdated |
+| Debian 14 | `2.76.3` | ⚠️ outdated |
+| Debian 13 | `2.68.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.74.1` | 🪦 legacy |
+| Ubuntu 24.04 LTS | `2.76.3` | ⚠️ outdated |
+| Homebrew | `2.77.1` | ✅ latest |
+| Fedora rawhide | `2.76` | ⚠️ outdated |
+
 ## 改进这些数据
 
 snapd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `snapd` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -78,4 +95,4 @@ snapd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:49Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:08:47Z._
