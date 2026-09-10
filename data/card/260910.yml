@@ -2,28 +2,28 @@ about:
   description: "The snapd and snap tools enable systems to work with .snap files."
   license: GPL-3.0
   homepage: 
-  head: 64a3217
+  head: 312408c
   archived: false
   latestVersion: "2.77.1"
   latestRelease: "2.77.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:49:16Z
+  collectedAt: 2026-09-10T16:48:58Z
 timeline:
   created: 2015-10-21
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 
 popularity:
   star: 2049
-  watcher: 76
+  watcher: 77
   fork: 689
   release: 182
   contributor: 308
-  pullRequest: 17533
+  pullRequest: 17539
   issue: 0
 language:
-  Go: 33846375
+  Go: 33856221
   C: 946948
   Shell: 755550
   Python: 649174
@@ -35,7 +35,7 @@ language:
   HTML: 980
   NSIS: 333
   Meson: 295
-totalBytes: 36353442
+totalBytes: 36363288
 recent:
   last30d:
     since: 2026-08-11
@@ -87,19 +87,19 @@ recent:
     commit: 0
 total:
   release: 182
-  mergedPR: 14938
+  mergedPR: 14943
   openPR: 217
   closedIssue: 0
   openIssue: 0
-  commit: 63598
+  commit: 63606
 ---
 path: /home/runner/.x-repo/github.com/snapcore/snapd
-collectedAt: 2026-09-10T04:49:45Z
+collectedAt: 2026-09-10T16:49:36Z
 loc:
   Go:
-    code: 785700
-    comments: 149310
-    blanks: 137752
+    code: 785841
+    comments: 149331
+    blanks: 137778
     files: 2767
   Yaml:
     code: 75919
@@ -227,9 +227,9 @@ loc:
     blanks: 106
     files: 40
 total:
-  code: 940576
-  comments: 183047
-  blanks: 165023
+  code: 940717
+  comments: 183068
+  blanks: 165049
   files: 6016
 ---
 date: "2026-09-07"
