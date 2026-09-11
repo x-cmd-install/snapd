@@ -14,11 +14,11 @@ x install snapd
 
 ## Code insight
 
-Total: **940,669** lines of code across **4740** files in the top 5 languages.
+Total: **941,126** lines of code across **4742** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 785,841 | 149,331 | 137,778 | 2767 |
+| Go | 786,298 | 149,426 | 137,893 | 2769 |
 | Yaml | 75,918 | 10,275 | 15,598 | 1727 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,423 | 732 | 2,595 | 122 |
@@ -42,16 +42,16 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.77.1` (2026-09-08)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 2,049 · **Forks**: 689 · **Open issues**: 0 · **Contributors**: 308
+- **Stars**: 2,049 · **Forks**: 689 · **Open issues**: 0 · **Contributors**: 309
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 14944 · **Open PRs**: 218 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63607
+- **Releases**: 182 · **Merged PRs**: 14946 · **Open PRs**: 221 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63609
 
 ## Recent activity
 
@@ -74,14 +74,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/snapd). **7** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
+Reported by **82** distros on [repology.org](https://repology.org/project/snapd). **8** are ✅ on the latest upstream release, **59** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.76.3` | ⚠️ outdated |
 | Debian 14 | `2.76.3` | ⚠️ outdated |
 | Debian 13 | `2.68.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.74.1` | 🪦 legacy |
+| Ubuntu 26.04 LTS | `2.76.3` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.76.3` | ⚠️ outdated |
 | Homebrew | `2.77.1` | ✅ latest |
 | Fedora rawhide | `2.76` | ⚠️ outdated |
@@ -95,4 +95,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:43:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:33:20Z._
