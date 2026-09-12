@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8442900,
       "digest": "sha256:edff50a59f69702639fe142301bbb711797610b4083cd944d9cc4e282d996cf5",
-      "download_count": 275,
+      "download_count": 290,
       "created_at": "2026-09-03T13:40:30Z",
       "updated_at": "2026-09-03T13:40:33Z",
       "browser_download_url": "https://github.com/canonical/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10326276,
       "digest": "sha256:10c824694cd9c9954ba7a826d245458d8fa1006d49937fe480dc9f36b57b1efc",
-      "download_count": 7009,
+      "download_count": 7482,
       "created_at": "2026-09-03T13:40:35Z",
       "updated_at": "2026-09-03T13:40:37Z",
       "browser_download_url": "https://github.com/canonical/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz"
