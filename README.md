@@ -14,12 +14,12 @@ x install snapd
 
 ## Code insight
 
-Total: **941,253** lines of code across **4743** files in the top 5 languages.
+Total: **942,368** lines of code across **4741** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 786,299 | 149,426 | 137,893 | 2769 |
-| Yaml | 76,019 | 10,283 | 15,632 | 1728 |
+| Go | 787,208 | 149,623 | 138,092 | 2770 |
+| Yaml | 76,225 | 10,383 | 15,700 | 1725 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,430 | 734 | 2,595 | 122 |
 | RPMSpecfile | 14,336 | 248 | 438 | 2 |
@@ -30,8 +30,8 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,050 · **Forks**: 689 · **Open issues**: 0 · **Contributors**: 309
+- **Stars**: 2,050 · **Forks**: 690 · **Open issues**: 0 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 14949 · **Open PRs**: 223 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63612
+- **Releases**: 182 · **Merged PRs**: 14957 · **Open PRs**: 222 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:05:14Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:17:36Z._
