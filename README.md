@@ -14,12 +14,12 @@ x install snapd
 
 ## Code insight
 
-Total: **942,368** lines of code across **4741** files in the top 5 languages.
+Total: **944,709** lines of code across **4748** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 787,208 | 149,623 | 138,092 | 2770 |
-| Yaml | 76,225 | 10,383 | 15,700 | 1725 |
+| Go | 789,069 | 149,800 | 138,461 | 2776 |
+| Yaml | 76,705 | 10,505 | 15,755 | 1726 |
 | C | 15,092 | 4,353 | 2,462 | 122 |
 | Python | 14,430 | 734 | 2,595 | 122 |
 | RPMSpecfile | 14,336 | 248 | 438 | 2 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.77.1` (2026-09-08)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-17
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 14957 · **Open PRs**: 222 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63620
+- **Releases**: 182 · **Merged PRs**: 14967 · **Open PRs**: 225 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63629
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-21 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-26 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-18 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-22 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-27 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:17:36Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:03:18Z._
