@@ -14,12 +14,12 @@ x install snapd
 
 ## Code insight
 
-Total: **948,344** lines of code across **4754** files in the top 5 languages.
+Total: **948,665** lines of code across **4755** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 792,063 | 150,351 | 138,929 | 2781 |
-| Yaml | 76,696 | 10,437 | 15,744 | 1727 |
+| Go | 792,171 | 150,364 | 138,944 | 2781 |
+| Yaml | 76,911 | 10,461 | 15,805 | 1728 |
 | C | 15,097 | 4,356 | 2,462 | 122 |
 | Python | 14,430 | 734 | 2,595 | 122 |
 | RPMSpecfile | 14,335 | 260 | 439 | 2 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 15009 · **Open PRs**: 230 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63671
+- **Releases**: 182 · **Merged PRs**: 15015 · **Open PRs**: 231 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-30 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-05 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-01 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-06 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:03:57Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T04:57:53Z._
