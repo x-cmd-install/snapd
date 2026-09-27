@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,053 · **Forks**: 696 · **Open issues**: 0 · **Contributors**: 311
+- **Stars**: 2,054 · **Forks**: 696 · **Open issues**: 0 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 15015 · **Open PRs**: 231 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63677
+- **Releases**: 182 · **Merged PRs**: 15015 · **Open PRs**: 234 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63677
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-28 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-01 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-06 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-29 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-31 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-02 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-07 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:57:53Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:22:14Z._
