@@ -14,14 +14,14 @@ x install snapd
 
 ## Code insight
 
-Total: **950,443** lines of code across **4758** files in the top 5 languages.
+Total: **951,585** lines of code across **4764** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 793,629 | 150,702 | 139,219 | 2784 |
-| Yaml | 77,003 | 10,460 | 15,813 | 1728 |
-| C | 15,097 | 4,356 | 2,462 | 122 |
-| Python | 14,430 | 734 | 2,595 | 122 |
+| Go | 794,216 | 150,858 | 139,314 | 2784 |
+| Yaml | 77,047 | 10,444 | 15,773 | 1732 |
+| C | 15,103 | 4,356 | 2,463 | 123 |
+| Python | 14,890 | 736 | 2,664 | 123 |
 | RPMSpecfile | 14,335 | 260 | 439 | 2 |
 
 ## OpenSSF Scorecard
@@ -41,36 +41,36 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `2.77.1` (2026-09-08)
-- **Last commit**: 2026-10-06
+- **Latest**: `2.78` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 2,055 · **Forks**: 701 · **Open issues**: 0 · **Contributors**: 311
+- **Stars**: 2,055 · **Forks**: 701 · **Open issues**: 0 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 15054 · **Open PRs**: 255 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63714
+- **Releases**: 183 · **Merged PRs**: 15061 · **Open PRs**: 254 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63721
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [snapd_2.77.1.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.no-vendor.tar.xz) | 8.1 MiB | `other` |
-| [snapd_2.77.1.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.only-vendor.tar.xz) | 2.1 MiB | `other` |
-| [snapd_2.77.1.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.77.1/snapd_2.77.1.vendor.tar.xz) | 9.8 MiB | `other` |
+| [snapd_2.78.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.no-vendor.tar.xz) | 8.0 MiB | `other` |
+| [snapd_2.78.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.only-vendor.tar.xz) | 2.1 MiB | `other` |
+| [snapd_2.78.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.vendor.tar.xz) | 10.1 MiB | `other` |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:00:19Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:05:11Z._
