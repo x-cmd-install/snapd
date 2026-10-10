@@ -14,12 +14,12 @@ x install snapd
 
 ## Code insight
 
-Total: **952,122** lines of code across **4765** files in the top 5 languages.
+Total: **952,271** lines of code across **4770** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 794,715 | 150,913 | 139,374 | 2785 |
-| Yaml | 77,054 | 10,445 | 15,773 | 1732 |
+| Yaml | 77,203 | 10,455 | 15,778 | 1737 |
 | C | 15,103 | 4,356 | 2,463 | 123 |
 | Python | 14,890 | 736 | 2,664 | 123 |
 | RPMSpecfile | 14,335 | 260 | 439 | 2 |
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 15070 · **Open PRs**: 254 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63730
+- **Releases**: 183 · **Merged PRs**: 15073 · **Open PRs**: 246 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63733
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-10 | 5 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-11 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-12 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-14 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-19 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-10 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 5 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-12 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-15 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-20 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:10:59Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:50:13Z._
