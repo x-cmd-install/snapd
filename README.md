@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.78` (2026-10-07)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 3
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 15147 · **Open PRs**: 226 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63807
+- **Releases**: 183 · **Merged PRs**: 15149 · **Open PRs**: 227 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63809
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -71,6 +71,20 @@ Lowest-scoring checks:
 | [snapd_2.78.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.no-vendor.tar.xz) | 8.0 MiB | `other` |
 | [snapd_2.78.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.only-vendor.tar.xz) | 2.1 MiB | `other` |
 | [snapd_2.78.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.vendor.tar.xz) | 10.1 MiB | `other` |
+
+## Distribution status
+
+Reported by **81** distros on [repology.org](https://repology.org/project/snapd). **5** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.77.1` | ⚠️ outdated |
+| Debian 14 | `2.77.1` | ⚠️ outdated |
+| Debian 13 | `2.68.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.77.1` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.77.1` | ⚠️ outdated |
+| Homebrew | `2.78` | ✅ latest |
+| Fedora rawhide | `2.77.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +95,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:19Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:46:12Z._
