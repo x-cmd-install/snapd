@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10572896,
       "digest": "sha256:197d5e5870ae7f3681276cea37339d5ee528ddfaf47f53509f858fdad46e4aed",
-      "download_count": 18973,
+      "download_count": 19558,
       "created_at": "2026-09-09T12:08:56Z",
       "updated_at": "2026-09-09T12:08:56Z",
       "browser_download_url": "https://github.com/canonical/snapd/releases/download/2.78/snapd_2.78.vendor.tar.xz"
