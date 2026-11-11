@@ -14,11 +14,11 @@ x install snapd
 
 ## Code insight
 
-Total: **961,159** lines of code across **4804** files in the top 5 languages.
+Total: **961,232** lines of code across **4804** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 800,267 | 151,292 | 140,259 | 2786 |
+| Go | 800,340 | 151,300 | 140,269 | 2786 |
 | Yaml | 78,928 | 10,639 | 16,009 | 1765 |
 | C | 15,779 | 4,438 | 2,619 | 124 |
 | Python | 15,588 | 758 | 2,806 | 127 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,054 · **Forks**: 709 · **Open issues**: 0 · **Contributors**: 309
+- **Stars**: 2,055 · **Forks**: 709 · **Open issues**: 0 · **Contributors**: 309
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 15167 · **Open PRs**: 265 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63827
+- **Releases**: 183 · **Merged PRs**: 15168 · **Open PRs**: 271 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63828
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,15 +74,15 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **82** distros on [repology.org](https://repology.org/project/snapd). **7** are ✅ on the latest upstream release, **60** are ⚠️ on an older version.
+Reported by **83** distros on [repology.org](https://repology.org/project/snapd). **11** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `2.77.1` | ⚠️ outdated |
 | Debian 14 | `2.77.1` | ⚠️ outdated |
 | Debian 13 | `2.68.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.77.1` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.77.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.78` | ✅ latest |
+| Ubuntu 24.04 LTS | `2.78` | ✅ latest |
 | Homebrew | `2.78` | ✅ latest |
 | Fedora rawhide | `2.77.1` | ⚠️ outdated |
 
@@ -95,4 +95,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:18:37Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:18:27Z._
