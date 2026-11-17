@@ -14,12 +14,12 @@ x install snapd
 
 ## Code insight
 
-Total: **961,241** lines of code across **4804** files in the top 5 languages.
+Total: **962,418** lines of code across **4810** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 800,337 | 151,299 | 140,269 | 2786 |
-| Yaml | 78,942 | 10,642 | 16,009 | 1765 |
+| Go | 800,913 | 151,389 | 140,361 | 2788 |
+| Yaml | 79,040 | 10,651 | 16,036 | 1769 |
 | C | 15,779 | 4,438 | 2,619 | 124 |
 | Python | 15,588 | 758 | 2,806 | 127 |
 | RPMSpecfile | 14,355 | 279 | 443 | 2 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.78` (2026-10-07)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 2,058 · **Forks**: 711 · **Open issues**: 0 · **Contributors**: 310
+- **Stars**: 2,058 · **Forks**: 712 · **Open issues**: 0 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 15177 · **Open PRs**: 292 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63837
+- **Releases**: 183 · **Merged PRs**: 15185 · **Open PRs**: 292 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -74,7 +74,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **83** distros on [repology.org](https://repology.org/project/snapd). **11** are ✅ on the latest upstream release, **56** are ⚠️ on an older version.
+Reported by **84** distros on [repology.org](https://repology.org/project/snapd). **11** are ✅ on the latest upstream release, **57** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -95,4 +95,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:32:50Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:56:30Z._
