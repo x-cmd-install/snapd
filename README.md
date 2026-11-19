@@ -14,14 +14,14 @@ x install snapd
 
 ## Code insight
 
-Total: **962,418** lines of code across **4810** files in the top 5 languages.
+Total: **963,675** lines of code across **4821** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 800,913 | 151,389 | 140,361 | 2788 |
-| Yaml | 79,040 | 10,651 | 16,036 | 1769 |
-| C | 15,779 | 4,438 | 2,619 | 124 |
-| Python | 15,588 | 758 | 2,806 | 127 |
+| Go | 801,577 | 151,593 | 140,493 | 2792 |
+| Yaml | 79,250 | 10,676 | 16,052 | 1775 |
+| C | 15,890 | 4,472 | 2,647 | 125 |
+| Python | 15,797 | 767 | 2,822 | 127 |
 | RPMSpecfile | 14,355 | 279 | 443 | 2 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2.78` (2026-10-07)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 2,058 · **Forks**: 712 · **Open issues**: 0 · **Contributors**: 311
+- **Stars**: 2,058 · **Forks**: 718 · **Open issues**: 0 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 183 · **Merged PRs**: 15185 · **Open PRs**: 292 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63845
+- **Releases**: 183 · **Merged PRs**: 15195 · **Open PRs**: 293 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 63854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-22 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-27 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-24 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-29 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,7 +81,7 @@ Reported by **84** distros on [repology.org](https://repology.org/project/snapd)
 | Debian unstable | `2.77.1` | ⚠️ outdated |
 | Debian 14 | `2.77.1` | ⚠️ outdated |
 | Debian 13 | `2.68.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.78` | ✅ latest |
+| Ubuntu 26.04 LTS | `2.74.1` | 🪦 legacy |
 | Ubuntu 24.04 LTS | `2.78` | ✅ latest |
 | Homebrew | `2.78` | ✅ latest |
 | Fedora rawhide | `2.77.1` | ⚠️ outdated |
@@ -95,4 +95,4 @@ Install metadata for snapd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:56:30Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:13:06Z._
