@@ -14,14 +14,14 @@ x install snapd
 
 ## 代码洞察
 
-合计: **965,242** 行代码（覆盖前 5 种语言、共 **4825** 个文件）。
+合计: **966,186** 行代码（覆盖前 5 种语言、共 **4828** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 802,917 | 151,750 | 140,677 | 2795 |
-| Yaml | 79,421 | 10,688 | 16,055 | 1776 |
-| C | 15,890 | 4,472 | 2,647 | 125 |
-| Python | 15,797 | 767 | 2,822 | 127 |
+| Go | 803,467 | 151,791 | 140,717 | 2796 |
+| Yaml | 79,422 | 10,688 | 16,055 | 1776 |
+| Python | 16,128 | 768 | 2,863 | 129 |
+| C | 15,950 | 4,497 | 2,659 | 125 |
 | RPMSpecfile | 14,355 | 279 | 443 | 2 |
 
 ## OpenSSF Scorecard 评分
@@ -42,27 +42,27 @@ x install snapd
 ## 发布
 
 - **最新版本**: `2.78` (2026-10-07)
-- **最近提交**: 2026-11-23
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 2,062 · **Fork**: 720 · **开放 issue**: 0 · **贡献者**: 313
+- **Star**: 2,062 · **Fork**: 720 · **开放 issue**: 0 · **贡献者**: 315
 
 ## 累计统计
 
-- **发布数**: 183 · **已合并 PR**: 15223 · **开放 PR**: 288 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63881
+- **发布数**: 183 · **已合并 PR**: 15228 · **开放 PR**: 292 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 63886
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-04 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-05 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -71,20 +71,6 @@ x install snapd
 | [snapd_2.78.no-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.no-vendor.tar.xz) | 8.0 MiB | `other` |
 | [snapd_2.78.only-vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.only-vendor.tar.xz) | 2.1 MiB | `other` |
 | [snapd_2.78.vendor.tar.xz](https://github.com/snapcore/snapd/releases/download/2.78/snapd_2.78.vendor.tar.xz) | 10.1 MiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/snapd) 上共有 **83** 个发行版报告此项目。**14** 个 ✅ 已是最新上游版本，**53** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.77.1` | ⚠️ outdated |
-| Debian 14 | `2.77.1` | ⚠️ outdated |
-| Debian 13 | `2.68.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.74.1` | 🪦 legacy |
-| Ubuntu 24.04 LTS | `2.78` | ✅ latest |
-| Homebrew | `2.78` | ✅ latest |
-| Fedora rawhide | `2.77.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -95,4 +81,4 @@ snapd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:58:33Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:51:06Z._
